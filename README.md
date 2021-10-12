@@ -1,7 +1,1 @@
-echo "# portrait" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/somenave/portrait.git
-git push -u origin main
+implementation of the functionality of sliders, modal windows, dynamic loading of elements, sending forms, tabs, spoilers, burger menu, phone number mask, smooth scrolling
